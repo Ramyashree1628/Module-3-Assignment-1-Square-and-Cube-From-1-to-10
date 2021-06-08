@@ -1,0 +1,17 @@
+table,tr, td
+{
+border: solid red;
+width: 33%;
+text-align: center;
+border-collapse: collapse;
+background-color:brown;
+color:white;
+}
+table
+ {
+    margin: auto;
+ }
+table caption{
+  border: 2px solid purple;
+  background-color:teal;
+}
