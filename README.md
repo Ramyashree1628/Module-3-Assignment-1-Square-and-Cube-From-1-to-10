@@ -1,1 +1,1 @@
-# Module-3-Assignment-1-Square-and-Cube-From-1-to-10
+# Module-3-Assignment-1-Square and Cube From 1 to-10
